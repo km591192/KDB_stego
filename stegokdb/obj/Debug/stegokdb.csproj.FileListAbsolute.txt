@@ -1,0 +1,9 @@
+D:\onu\Стеганография\stegokdb\stegokdb\bin\Debug\stegokdb.exe.config
+D:\onu\Стеганография\stegokdb\stegokdb\bin\Debug\stegokdb.exe
+D:\onu\Стеганография\stegokdb\stegokdb\bin\Debug\stegokdb.pdb
+D:\onu\Стеганография\stegokdb\stegokdb\obj\Debug\stegokdb.Form1.resources
+D:\onu\Стеганография\stegokdb\stegokdb\obj\Debug\stegokdb.Properties.Resources.resources
+D:\onu\Стеганография\stegokdb\stegokdb\obj\Debug\stegokdb.csproj.GenerateResource.Cache
+D:\onu\Стеганография\stegokdb\stegokdb\obj\Debug\stegokdb.exe
+D:\onu\Стеганография\stegokdb\stegokdb\obj\Debug\stegokdb.pdb
+D:\onu\Стеганография\stegokdb\stegokdb\obj\Debug\stegokdb.csprojResolveAssemblyReference.cache
